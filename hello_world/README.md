@@ -44,9 +44,27 @@ Di pojok kanan bawah akan tampil seperti gambar berikut. Klik "Add Remote"
 
 
 # Langkah 4:
+Salin tautan repository Anda dari browser ke bagian ini, lalu klik Add remote
 
+![Screenshot hello_world](/images/l8.png)
+
+Setelah berhasil, tulis remote name dengan "origin"
+
+![Screenshot hello_world](/images/l9.png)
+
+
+# Langkah 5:
+Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub Anda seperti berikut.
+
+![Screenshot hello_world](/images/l10.png)
+
+
+# Langkah 6:
+Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut.
+
+![Screenshot hello_world](/images/l11.png)
 # hello_world
 
 A new Flutter project.
 
-![Screenshot hello_world](/images/01.png)
+![Screenshot hello_world](./images/01.png)
